@@ -14,7 +14,7 @@ We are working with Time Series Model, which analyzes a sequence of data points 
 # Streamlit: The fastest way to build and share data apps
 
 
-Streamlit is an open-source python framework for building web apps for Machine Learning and Data Science.It is the fastest way to build and share data apps. We can develop and deploy our web app using Streamlit very easily. In just a few minutes you can build and deploy powerful data apps. 
+Streamlit is an open-source python framework for building web apps for Machine Learning and Data Science. It is the fastest way to build and share data apps. We can develop and deploy our web app using Streamlit very easily. In just a few minutes you can build and deploy powerful data apps. 
 
 
 
